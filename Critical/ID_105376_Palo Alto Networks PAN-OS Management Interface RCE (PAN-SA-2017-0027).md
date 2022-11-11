@@ -1,3 +1,10 @@
+# 漏洞概要
+
+目標主機 PAN-OS 受到 Remote Code Eexecution(RCE) 漏洞影響。
+
+
+---
+
 # 漏洞敘述
 
 > CVE : CVE-2017-15944

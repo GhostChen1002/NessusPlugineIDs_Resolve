@@ -1,3 +1,10 @@
+# 漏洞概要
+
+目標主機為 DNS Server，可被用於 Distributed Denial of Service(DDoS) 攻擊。
+
+
+---
+
 # 漏洞敘述
 
 > CVE : CVE-2006-0987

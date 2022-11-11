@@ -1,3 +1,10 @@
+# 漏洞概要
+
+可以猜測到目標主機 SNMP Service 的 Community Name。
+
+
+---
+
 # 漏洞敘述
 
 > CVE : CVE-1999-0517

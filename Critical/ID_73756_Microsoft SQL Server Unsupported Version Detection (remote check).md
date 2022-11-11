@@ -1,3 +1,10 @@
+# 漏洞概要
+
+目標主機上運行不再受支援的 Microsoft SQL Server 版本。
+
+
+---
+
 # 漏洞敘述
 
 根據其版本，目標主機上安裝一個或多個不支援的 Microsoft SQL Server Version。

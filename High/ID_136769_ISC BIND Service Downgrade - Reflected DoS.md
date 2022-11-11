@@ -1,3 +1,10 @@
+# 漏洞概要
+
+目標主機的 Name Server 受到 Downgrade(服務降級)/Reflected(反射) DoS 漏洞影響。
+
+
+---
+
 # 漏洞敘述
 
 > CVE : CVE-2020-8616

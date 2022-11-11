@@ -1,3 +1,10 @@
+# 漏洞概要
+
+Certificate Chain 中的 SSL Certificate 已使用 Weak Hash Algorithms 進行簽名。
+
+
+---
+
 # 漏洞敘述
 
 > CVE : CVE-2004-2761
